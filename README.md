@@ -4,6 +4,6 @@ Machine Learning University
 
 Machine learning Alghoritm for classyfing accelerometer data for user
 
-The folder "Proiect IA" contains the documentation and the final build for the project with the accuracy on test of %89.0
+The folder "Proiect IA" contains the documentation and the final build for the project with the accuracy on test of 89.0%
 
 The other are first try on tackling the problem
